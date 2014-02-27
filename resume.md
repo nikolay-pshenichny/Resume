@@ -23,18 +23,17 @@
 
 ###Background
 
- &nbsp; | &nbsp;
-|  ------------------------ | ----------------------------------------------------------------------------------------- |
-|  __Keywords__             |  SCRUM, SOA, DDD, TDD, RIA, MVC, ORM, XML, SOAP, WSDL.                                    |
-|  __Languages__            |  C#, ActionScript, JavaScript, Python, C, C++, Object Pascal, Transact SQL, PL/SQL HTML.  |
-|  __IDE__                  |  Visual Studio, PyCharm, Eclipse, Flash Builder, Delphi...Embarcadero RAD Studio.         |
-|  __Databases__            |  Microsoft SQL Server, Firebird, Oracle, MySQL.                                           |
-|  __Operating Systems__    |  Windows, Linux, OS-X.                                                                    |
-|  __Version Control__      |  SVN, CVS, GIT.                                                                           |
-|  __Testing/Deployment__   |  xUnit, nUnit.                                                                            |
-|  __CI Tools/Deployment__  |  TeamCity, BuildBot, Octopus Deploy.                                                      |
-|  __Other__                |  Ant, NuGet, SASS, WCF, Entity Framework, Castle Windsor, SQL Server Reporting Services,  |
-|                           |  JIRA, Confluence, JIRA Agile/GreenHopper, LINQPad.                                       |
+ &nbsp;                   | &nbsp;
+------------------------- | ----------------------------------------------------------------------------------------- 
+_Keywords_                | SCRUM, SOA, DDD, TDD, RIA, MVC, ORM, XML, SOAP, WSDL.                                    
+_Languages_               | C#, ActionScript, JavaScript, Python, C, C++, Object Pascal, Transact SQL, PL/SQL, HTML.  
+_IDE_                     | Visual Studio, PyCharm, Eclipse, Flash Builder, Delphi /../ Embarcadero RAD Studio.         
+_Databases_               | Microsoft SQL Server, Firebird, Oracle, MySQL.                                           
+_Operating Systems_       | Windows, Linux, OS X.                                                                    
+_Version Control_         | SVN, CVS, GIT.                                                                           
+_Testing_                 | xUnit, nUnit.                                                                            
+_CI and Deployment Tools_ | TeamCity, BuildBot, Octopus Deploy.                                                      
+_Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle Windsor, SQL Server Reporting Services, JIRA, Confluence, JIRA Agile/GreenHopper, LINQPad.                                       
 
 
 
@@ -71,9 +70,9 @@ Design and development of the INscribe Digital distribution platform (SOA based 
   
 Customization and adaptation of the in-house media distribution platform for the electronic book market.  
 
-  - Customized UI to allow users from different portals see different views;
+  - Customized UI to allow users from different portals see customized views;
   - Created UI themes to represent different portals;
-  - Worked on customized OLAP reports;
+  - Worked on OLAP cubes "customization" (created separate OLAP cubes and customized MDX queries for them);
 
 Development of a digital media distribution platform (ADAM project).  
 
@@ -85,7 +84,7 @@ Development of a digital media distribution platform (ADAM project).
 
 
 _Languages, tools and technologies summary_: 
-C#, Python, LINQ, Entity Framework, MSMQ, WCF, Transact-SQL, ActionScript3/Flex, Ant, MSBuild, Buildbot, TeamCity, NuGet, Octopus Deploy, PowerShell, Subversion.
+C#, Python, LINQ, Entity Framework, MSMQ, WCF, WPF, Transact-SQL, ActionScript3/Flex, Ant, MSBuild, Buildbot, TeamCity, NuGet, Octopus Deploy, PowerShell, Subversion.
 
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -96,11 +95,11 @@ January 2010 - May 2010
 
 Design and development of an Energy consumption accounting system for energy distribution market.
 
- - Gathered business requirements and participated in creation of technical specifications document;
- - Participated in design and development of the software solution in accordance to the created earlier technical specifications document;
- - Developed different parts of the application and database (stored procedures, tables)
+ - Gathered business requirements and participated in creation of the technical specifications document;
+ - Participated in design and development of the software solution in accordance with the created earlier technical specifications document;
+ - Developed different parts of the application and database (stored procedures, tables, views)
 
-Owned design and development of reports generation tool and integration library for it.
+Owned design and development of the reports generation tool and integration library for it.
 
  - Simplified reports development, generation and integration with the main software solution.  
 
@@ -109,13 +108,17 @@ _Languages, tools and technologies summary_:
 C++, Embarcadero RAD Studio (C++ Builder), ODAC, DevExpress VCL, Oracle 9i/11g, PL/SQL, Subversion
 
 
+  <div style="page-break-after:always">	
+  </div>
+
+
 ------------------------------------------------------------------------------------------------------------------------
 __Integra__, Stavropol, Russia  
 _ООО "Интегра"_  
 Software Developer  
 April 2009 - January 2010  
 
-- Participated in design and development of a B2B eCommerce solution.
+Participated in design and development of a B2B eCommerce solution.
   - Developed different parts of the client-side application;
   - Developed database stored procedures;
   - Developed client application automatic updater;
@@ -141,7 +144,6 @@ Supported and developed different parts of the in-house Banking Software.
  - Developed wide variety of reports, including reports for credit bureaus;
  - Integrated 3rd part applications and services;
  - Performed code reviews; 
- - Integrated 3rd part applications and services;
  - Participated in training of the end users, system maintenance and end-user support;
  - Helped with annual financial reports generation and checking.
 
@@ -149,10 +151,10 @@ Led a team of 2 engineers.
 
 _Languages, tools and technologies summary_: 
 Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion
+  
+  
 
 
-
-
-
+------------------------------------------------------------------------------------------------------------------------
 ###References
 Please contact me for references.

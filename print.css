@@ -5,3 +5,7 @@
         content: "Page " counter(page) " of " counter(pages) }}
 body { text-align: justify }
 h1 { -weasy-bookmark-level: none }
+
+table td {
+    padding: 3px;
+}
