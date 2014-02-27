@@ -13,6 +13,8 @@ def after_install(options, home_dir):
     subprocess.call([join(home_dir, 'bin', 'pip'), 'install', 'markdown'])
 
     subprocess.call([join(home_dir, 'bin', 'pip'), 'install', 'WeasyPrint'])
+    
+    #subprocess.call([join(home_dir, 'bin', 'pip'), 'install', 'pyobjc'])
 """))
 
 f = open('venv-script.py', 'w').write(output)
