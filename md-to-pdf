@@ -16,10 +16,16 @@ cd ./..
 source ./venv/bin/activate
 
 # Convert MD to HTML
-python -m markdown -x tables resume.md > resume.html
+echo "<head><meta charset=\"UTF-8\"/></head>" > resume.html
+python -m markdown -x tables resume.md >> resume.html
 
 # Substitute values from AddressBook
 ./AddressBook/build/Release/AddressBook ./resume.html
 
 # Convert HTML to PDF
 weasyprint ./resume.html resume.pdf -s ./print.css
+
+
+# Cleanup
+rm ./resume.html
+rm ./venv-script.py
