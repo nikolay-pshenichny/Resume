@@ -1,108 +1,158 @@
-Nikolay Pshenichny
-================================================================================
->  Software Engineer  
->  San Francisco, CA
+#Nikolay Pshenichny  
+------------------------------------------------------------------------------------------------------------------------
+{Address}  
+{City}, {State}, {ZIP}  
+{Phone}  
+{Email}
 
 
 
-Objectives
---------------------------------------------------------------------------------
-- Develop better software.
-- Work with a motivated team.
+###Objectives
+
+- Senior Software Engineer position in a motivated team working on interesting and complex projects.  
 - Improve skills and learn new algorithms, methodologies and technologies.
 
 
+###Summary
 
-Summary
---------------------------------------------------------------------------------
->  Experienced software engineer, who enjoys working on interesting and complex  
->  projects. Believes that the learning process is an integral part of software  
->  engineering.  
->  Haven't learnt any functional programming languages yet, but just one step away  
->  from doing that.
+- Over eight years' experience developing software of different complexity and scope.  
+- Experience in business requirements analysis.  
+- Experience with development team management.  
+- Current Development using __.NET technology stack__.  
 
 
+###Background
 
-Qualification highlights
---------------------------------------------------------------------------------
-- Over eight years' experience developing software.
-- Experience developing Enterprise applications (front and back-end).
-- Current Development with C\#, .NET.
-
-
-
-Education
---------------------------------------------------------------------------------
-- University Diploma in Information Systems, South-Russian State University  
-  of Economics and Service, Russia.
-- Voc. School Diploma in Telecom Systems, Stavropol College of  
-  Communications, Russia.
+ &nbsp; | &nbsp;
+|  ------------------------ | ----------------------------------------------------------------------------------------- |
+|  __Keywords__             |  SCRUM, SOA, DDD, TDD, RIA, MVC, ORM, XML, SOAP, WSDL.                                    |
+|  __Languages__            |  C#, ActionScript, JavaScript, Python, C, C++, Object Pascal, Transact SQL, PL/SQL HTML.  |
+|  __IDE__                  |  Visual Studio, PyCharm, Eclipse, Flash Builder, Delphi...Embarcadero RAD Studio.         |
+|  __Databases__            |  Microsoft SQL Server, Firebird, Oracle, MySQL.                                           |
+|  __Operating Systems__    |  Windows, Linux, OS-X.                                                                    |
+|  __Version Control__      |  SVN, CVS, GIT.                                                                           |
+|  __Testing/Deployment__   |  xUnit, nUnit.                                                                            |
+|  __CI Tools/Deployment__  |  TeamCity, BuildBot, Octopus Deploy.                                                      |
+|  __Other__                |  Ant, NuGet, SASS, WCF, Entity Framework, Castle Windsor, SQL Server Reporting Services,  |
+|                           |  JIRA, Confluence, JIRA Agile/GreenHopper, LINQPad.                                       |
 
 
 
-Certifications
---------------------------------------------------------------------------------
-- Certified ScrumMaster, Scrum Alliance, October 2013 
+
+###Education/Events/Certifications
+
+- Certified ScrumMaster, Scrum Alliance, __2013__.
+- QCon San Francisco, __2012__.
+- University Diploma in Information Systems, South-Russian State University of Economics and Service, Russia, __2005__.
+- Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia, __2002__.
+
+	
+
+  <div style="page-break-after:always">	
+  </div>
 
 
 
-Work experience
---------------------------------------------------------------------------------
-###Senior Software Engineer, INgrooves, San Francisco, CA, (www.ingrooves.com), May 2010 - Nov 2013
 
-- Participated in design and development of the INscribe Digital distribution  
-  platform (Oct 2011 - Nov 2013).
-- Installed and configured Continuous Integration Infrastructure for INscribe  
-  Digital distribution platform.
-- Participated in development of a digital media distribution platform  
-  (ADAM project, May 2010 – Oct 2011).
+#Work experience
+------------------------------------------------------------------------------------------------------------------------
+__INgrooves/Inscribe Digital/One Digital__, San Francisco, CA, (www.ingrooves.com)  
+Senior Software Engineer  
+May 2010 - November 2013  
+
+Design and development of the INscribe Digital distribution platform (SOA based application for electronic book delivery) that was built from ground up in order to replace previously used distribution solution.  
+
+  - Installed and configured Continuous Integration Infrastructure;
+  - Developed UI (RIA, Flex/ActionScript, IoC, Dependency Injection);
+  - Back-end development, including database schema changes;
+  - Designed and implemented a software solution for long-running data migration operations;
+  - Developed build/deployment scripts for some parts of the system (Ant, MSBuild, PowerShell);
+  - Developed reports (SQL Server Reporting Services);
+  
+Customization and adaptation of the in-house media distribution platform for the electronic book market.  
+
+  - Customized UI to allow users from different portals see different views;
+  - Created UI themes to represent different portals;
+  - Worked on customized OLAP reports;
+
+Development of a digital media distribution platform (ADAM project).  
+
+  - Developed parts of the UI;
+  - Designed and developed parts of back-end (API, DB schema);
+  - Developed and optimized Reports (SSRS);
+  - Modified importers for new customer needs;
+  - Developed data migration scripts;
 
 
-
-###Lead Software Engineer, South Interregional Energetic Company JSC, Pyatigorsk, Russia (www.umek-sk.ru), Jan 2010 - May 2010
-
-- Was a part of a team that collected business requirements and created  
-  technical specifications for the project.
-- Participated in design and development of an Energy consumption accounting  
-  system for energy distribution market.
-- Developed an in-house tool to simplify reports development and generation and
-  integration with the mail software solution. 
+_Languages, tools and technologies summary_: 
+C#, Python, LINQ, Entity Framework, MSMQ, WCF, Transact-SQL, ActionScript3/Flex, Ant, MSBuild, Buildbot, TeamCity, NuGet, Octopus Deploy, PowerShell, Subversion.
 
 
+------------------------------------------------------------------------------------------------------------------------
+__South Interregional Energetic Company JSC__, Pyatigorsk, Russia (www.umek-sk.ru)  
+_ОАО "Южная Межрегиональная энергетическая компания"_  
+Lead Software Engineer  
+January 2010 - May 2010  
 
-###Software Developer, Integra, Stavropol, Russia, Apr 2009 - Jan 2010
+Design and development of an Energy consumption accounting system for energy distribution market.
+
+ - Gathered business requirements and participated in creation of technical specifications document;
+ - Participated in design and development of the software solution in accordance to the created earlier technical specifications document;
+ - Developed different parts of the application and database (stored procedures, tables)
+
+Owned design and development of reports generation tool and integration library for it.
+
+ - Simplified reports development, generation and integration with the main software solution.  
+
+
+_Languages, tools and technologies summary_: 
+C++, Embarcadero RAD Studio (C++ Builder), ODAC, DevExpress VCL, Oracle 9i/11g, PL/SQL, Subversion
+
+
+------------------------------------------------------------------------------------------------------------------------
+__Integra__, Stavropol, Russia  
+_ООО "Интегра"_  
+Software Developer  
+April 2009 - January 2010  
+
 - Participated in design and development of a B2B eCommerce solution.
-- Designed, implemented and tested an in-house data syncronization solution
-- Listed as an author in a patent for the developed software  
-  (#2010611387, Russian Federation).
+  - Developed different parts of the client-side application;
+  - Developed database stored procedures;
+  - Developed client application automatic updater;
+
+Designed, implemented and tested a data syncronization solution (sync. between server-side data and client-side data)
+
+Listed as an author in a patent for the developed software (\#2010611387, Russian Federation).
+
+_Languages, tools and technologies summary_: 
+Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP, Python, DevExpress VCL, SQL, Subversion
 
 
 
-###Engineering Manager, “Stavropolpromstroybank” JSC, Stavropol, Russia (www.psbst.ru), Jul 2005 - Apr 2009
-- Led a team of Software Engineers.
-- Developed different parts of the in-house Banking Software.
-- Integrated 3rd part applications and services.
+------------------------------------------------------------------------------------------------------------------------
+__"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
+_"Ставропольпромстройбанк" ОАО_  
+Software Engineer / Engineering Manager  
+July 2005 - April 2009
+
+Supported and developed different parts of the in-house Banking Software.  
+
+ - Modified the existing banking software to meet new customers needs and reflect changes in the legal system;
+ - Developed wide variety of reports, including reports for credit bureaus;
+ - Integrated 3rd part applications and services;
+ - Performed code reviews; 
+ - Integrated 3rd part applications and services;
+ - Participated in training of the end users, system maintenance and end-user support;
+ - Helped with annual financial reports generation and checking.
+
+Led a team of 2 engineers.
+
+_Languages, tools and technologies summary_: 
+Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion
 
 
 
-References
---------------------------------------------------------------------------------
->  Please contact me for references.
 
 
-
-Interests
---------------------------------------------------------------------------------
-- Learning and understanding how things work
-- Science fiction
-
-
-
-Skills
---------------------------------------------------------------------------------
-_Tools, used for different projects at different times:_  
-__Languages__: C#, ActionScript, CSS, SQL, Python, C++, Pascal, HTML.  
-__Databases__: MS SQL, Firebird, Oracle.  
-__Operating Systems__: Windows, Linux.  
-__Version Control__: SVN, CVS, GIT.  
-__Others__: SASS, TeamCity, BuildBot.  
+###References
+Please contact me for references.

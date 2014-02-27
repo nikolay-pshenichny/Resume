@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import virtualenv, textwrap
 
 output = virtualenv.create_bootstrap_script(textwrap.dedent("""
@@ -13,4 +15,4 @@ def after_install(options, home_dir):
     subprocess.call([join(home_dir, 'bin', 'pip'), 'install', 'WeasyPrint'])
 """))
 
-f = open('markdown-to-pdf-bootstrap.py', 'w').write(output)
+f = open('venv-script.py', 'w').write(output)

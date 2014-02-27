@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rm ./resume.html
+rm ./resume.pdf
+
+# Create virtual environment
+python ./create-venv-script.py
+python ./venv-script.py ./venv
+
+# Activate created virtual environment
+source ./venv/bin/activate
+
+# Convert MD to HTML
+python -m markdown -x tables resume.md > resume.html
+
+# Convert HTML to PDF
+weasyprint ./resume.html resume.pdf -s ./print.css
