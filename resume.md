@@ -15,35 +15,30 @@
 
 ###Summary
 
-- Over eight years' experience developing software of different complexity and scope.  
-- Experience in business requirements analysis.  
-- Experience with development team management.  
-- Current Development using __.NET technology stack__.  
+- Over eight years' experience developing software of different complexity and scope;  
+- Strong problem solving and analytical skills;  
+- Ability to quickly learn new languages;  
+- Experience in business requirements analysis;  
+- Experience with development team management;  
+- Current Development using __.NET technology stack__;  
 
 
 ###Background
 
  &nbsp;                   | &nbsp;
-------------------------- | ----------------------------------------------------------------------------------------- 
+------------------------- | -------------------------------------------------------------------------------------------- 
 _Keywords_                | SCRUM, SOA, DDD, TDD, RIA, MVC, ORM, XML, SOAP, WSDL.                                    
 _Languages_               | C#, ActionScript, JavaScript, Python, C, C++, Object Pascal, Transact SQL, PL/SQL, HTML.  
 _IDE_                     | Visual Studio, PyCharm, Eclipse, Flash Builder, Delphi /../ Embarcadero RAD Studio.         
 _Databases_               | Microsoft SQL Server, Firebird, Oracle, MySQL.                                           
 _Operating Systems_       | Windows, Linux, OS X.                                                                    
-_Version Control_         | SVN, CVS, GIT.                                                                           
+_Source Control_          | SVN, CVS, GIT.                                                                           
 _Testing_                 | xUnit, nUnit.                                                                            
 _CI and Deployment Tools_ | TeamCity, BuildBot, Octopus Deploy.                                                      
-_Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle Windsor, SQL Server Reporting Services, JIRA, Confluence, JIRA Agile/GreenHopper, LINQPad.                                       
+_Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle Windsor, SQL Server Reporting Services, JIRA, Confluence, JIRA Agile/GreenHopper, LINQ, LINQPad.                                       
 
 
 
-
-###Education/Events/Certifications
-
-- Certified ScrumMaster, Scrum Alliance, __2013__.
-- QCon San Francisco, __2012__.
-- University Diploma in Information Systems, South-Russian State University of Economics and Service, Russia, __2005__.
-- Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia, __2002__.
 
 	
 
@@ -81,6 +76,9 @@ Development of a digital media distribution platform (ADAM project).
   - Developed and optimized Reports (SSRS);
   - Modified importers for new customer needs;
   - Developed data migration scripts;
+  - Developed a quick import tool for applying data corrections received from suppliers (long-running, Python, Multiprocessing, Cluster);
+
+  Developed a data aggregation tool for a specific task of gathering ebook information (including updates and corrections) from different local sources and merging it into files, appropriate for the import into the distribution system (Python)
 
 
 _Languages, tools and technologies summary_: 
@@ -139,13 +137,14 @@ Software Engineer / Engineering Manager
 July 2005 - April 2009
 
 Supported and developed different parts of the in-house Banking Software.  
-
+ - Performed business requirements analysis and release planning;  
  - Modified the existing banking software to meet new customers needs and reflect changes in the legal system;
  - Developed wide variety of reports, including reports for credit bureaus;
  - Integrated 3rd part applications and services;
  - Performed code reviews; 
  - Participated in training of the end users, system maintenance and end-user support;
- - Helped with annual financial reports generation and checking.
+ - Helped with annual financial reports generation and checking;
+ - Mentored and provided leadership to junior developers;
 
 Led a team of 2 engineers.
 
@@ -156,5 +155,15 @@ Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird
 
 
 ------------------------------------------------------------------------------------------------------------------------
+
+###Education/Events/Certifications
+
+- Certified ScrumMaster, Scrum Alliance, __2013__.
+- QCon San Francisco, __2012__.
+- Bachelor degree in computer science, South-Russian State University of Economics and Service, Russia, __2005__.
+- Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia, __2002__.
+
+
 ###References
 Please contact me for references.
+
