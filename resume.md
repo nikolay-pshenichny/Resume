@@ -26,7 +26,7 @@
 ###Background
 
  &nbsp;                   | &nbsp;
-------------------------- | -------------------------------------------------------------------------------------------- 
+:-------------------------|--------------------------------------------------------------------------------------------- 
 _Keywords_                | SCRUM, SOA, DDD, TDD, RIA, MVC, ORM, XML, SOAP, WSDL.                                    
 _Languages_               | C#, ActionScript, JavaScript, Python, C, C++, Object Pascal, Transact SQL, PL/SQL, HTML.  
 _IDE_                     | Visual Studio, PyCharm, Eclipse, Flash Builder, Delphi /../ Embarcadero RAD Studio.         
@@ -34,13 +34,11 @@ _Databases_               | Microsoft SQL Server, Firebird, Oracle, MySQL.
 _Operating Systems_       | Windows, Linux, OS X.                                                                    
 _Source Control_          | SVN, CVS, GIT.                                                                           
 _Testing_                 | xUnit, nUnit.                                                                            
-_CI and Deployment Tools_ | TeamCity, BuildBot, Octopus Deploy.                                                      
+_CI and Deployment_       | TeamCity, BuildBot, Octopus Deploy.                                                      
 _Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle Windsor, SQL Server Reporting Services, JIRA, Confluence, JIRA Agile/GreenHopper, LINQ, LINQPad.                                       
 
 
 
-
-	
 
   <div style="page-break-after:always">	
   </div>
@@ -48,7 +46,7 @@ _Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle
 
 
 
-#Work experience
+###Work experience
 ------------------------------------------------------------------------------------------------------------------------
 __INgrooves/Inscribe Digital/One Digital__, San Francisco, CA, (www.ingrooves.com)  
 Senior Software Engineer  
@@ -85,6 +83,10 @@ _Languages, tools and technologies summary_:
 C#, Python, LINQ, Entity Framework, MSMQ, WCF, WPF, Transact-SQL, ActionScript3/Flex, Ant, MSBuild, Buildbot, TeamCity, NuGet, Octopus Deploy, PowerShell, Subversion.
 
 
+  <div style="page-break-after:always"> 
+  </div>
+
+
 ------------------------------------------------------------------------------------------------------------------------
 __South Interregional Energetic Company JSC__, Pyatigorsk, Russia (www.umek-sk.ru)  
 _ОАО "Южная Межрегиональная энергетическая компания"_  
@@ -105,9 +107,7 @@ Owned design and development of the reports generation tool and integration libr
 _Languages, tools and technologies summary_: 
 C++, Embarcadero RAD Studio (C++ Builder), ODAC, DevExpress VCL, Oracle 9i/11g, PL/SQL, Subversion
 
-
-  <div style="page-break-after:always">	
-  </div>
+<br/>
 
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -117,6 +117,7 @@ Software Developer
 April 2009 - January 2010  
 
 Participated in design and development of a B2B eCommerce solution.
+
   - Developed different parts of the client-side application;
   - Developed database stored procedures;
   - Developed client application automatic updater;
@@ -129,6 +130,9 @@ _Languages, tools and technologies summary_:
 Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP, Python, DevExpress VCL, SQL, Subversion
 
 
+  <div style="page-break-after:always"> 
+  </div>
+
 
 ------------------------------------------------------------------------------------------------------------------------
 __"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
@@ -137,6 +141,7 @@ Software Engineer / Engineering Manager
 July 2005 - April 2009
 
 Supported and developed different parts of the in-house Banking Software.  
+
  - Performed business requirements analysis and release planning;  
  - Modified the existing banking software to meet new customers needs and reflect changes in the legal system;
  - Developed wide variety of reports, including reports for credit bureaus;
@@ -150,18 +155,21 @@ Led a team of 2 engineers.
 
 _Languages, tools and technologies summary_: 
 Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion
-  
-  
-
-
 ------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+
+
 
 ###Education/Events/Certifications
 
-- Certified ScrumMaster, Scrum Alliance, __2013__.
-- QCon San Francisco, __2012__.
-- Bachelor degree in computer science, South-Russian State University of Economics and Service, Russia, __2005__.
-- Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia, __2002__.
+&nbsp;  | &nbsp;
+--------|---------------------------------------------------------------------------------------------------------------
+__2013__| Certified ScrumMaster, Scrum Alliance
+__2012__| QCon San Francisco
+__2005__| Bachelor degree in computer science, South-Russian State University of Economics and Service, Russia
+__2002__| Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia
+
 
 
 ###References

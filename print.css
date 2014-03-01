@@ -1,20 +1,28 @@
 @page
 {
-    margin: 1cm;
+    size: letter;
+    margin: 10mm;
     padding: 0;
+    
     @bottom-right
     {
-        content: "Page " counter(page) " of " counter(pages)
+        font-size: .75em;
+        content: "Page " counter(page) " of " counter(pages);
+        padding-bottom: 5mm;
     }
     @bottom-left
     {
-        content: "Nikolay Pshenichny / Resume"
+        font-size: .75em;
+        content: "Nikolay Pshenichny / Resume";
+        padding-bottom: 5mm;
     }
 }
 
 body
 {
-    text-align: justify 
+    text-align: justify;
+    line-height: 1.25em;
+    font-size: 1em;
 }
 
 h1
@@ -25,4 +33,9 @@ h1
 table td
 {
     padding: 3px;
+}
+
+table th
+{
+    display: none;
 }
