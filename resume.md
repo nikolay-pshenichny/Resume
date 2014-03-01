@@ -70,13 +70,13 @@ Customization and adaptation of the in-house media distribution platform for the
 Development of a digital media distribution platform (ADAM project).  
 
   - Developed parts of the UI;
-  - Designed and developed parts of back-end (API, DB schema);
+  - Designed and developed parts of the back-end (API, DB schema);
   - Developed and optimized Reports (SSRS);
   - Modified importers for new customer needs;
   - Developed data migration scripts;
   - Developed a quick import tool for applying data corrections received from suppliers (long-running, Python, Multiprocessing, Cluster);
 
-  Developed a data aggregation tool for a specific task of gathering ebook information (including updates and corrections) from different local sources and merging it into files, appropriate for the import into the distribution system (Python)
+  Developed a data aggregation tool for a specific task of gathering ebook information (including updates and corrections) from different local sources and merging it into files, appropriate for import into the distribution system (Python)
 
 
 _Languages, tools and technologies summary_: 
