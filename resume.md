@@ -154,7 +154,8 @@ Supported and developed different parts of the in-house Banking Software.
 Led a team of 2 engineers.
 
 _Languages, tools and technologies summary_: 
-Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion
+Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion  
+
 ------------------------------------------------------------------------------------------------------------------------
 
 <br/>
