@@ -160,7 +160,7 @@ Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird
 
 
 ------------------------------------------------------------------------------------------------------------------------
-__Contractor__, Stavropol, Russia
+__Contractor__, Stavropol, Russia  
 2003
 
 Designed and Developed inventory and reporting software for a local car dealership.
