@@ -17,7 +17,7 @@ source ./venv/bin/activate
 
 # Convert MD to HTML
 echo "<head><meta charset=\"UTF-8\"/></head>" > resume.html
-python -m markdown -x tables resume.md >> resume.html
+python -m markdown -x tables -x nl2br resume.md >> resume.html
 
 # Substitute values from AddressBook
 ./AddressBook/build/Release/AddressBook ./resume.html

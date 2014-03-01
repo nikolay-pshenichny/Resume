@@ -154,10 +154,21 @@ Supported and developed different parts of the in-house Banking Software.
 Led a team of 2 engineers.
 
 _Languages, tools and technologies summary_: 
-Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion  
+Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion, FastReport  VCL
+
+<br/>
+
 
 ------------------------------------------------------------------------------------------------------------------------
+__Contractor__, Stavropol, Russia
+2003
 
+Designed and Developed inventory and reporting software for a local car dealership.
+
+ - Significantly improved time of car selling process;
+ - Developed printing forms to print on vehicle's certificate of title to avoid handwriting;
+
+ _Languages, tools and technologies summary_: Single-tiered application, Borland Delphi 7, BDE, FastReport VCL
 <br/>
 
 
