@@ -168,7 +168,7 @@ Designed and Developed inventory and reporting software for a local car dealersh
  - Significantly improved time of car selling process;
  - Developed printing forms to print on vehicle's certificate of title to avoid handwriting;
 
- _Languages, tools and technologies summary_: Single-tiered application, Borland Delphi 7, BDE, FastReport VCL
+_Languages, tools and technologies summary_: Single-tiered application, Borland Delphi 7, BDE, FastReport VCL
 <br/>
 
 
