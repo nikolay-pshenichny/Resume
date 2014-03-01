@@ -163,7 +163,7 @@ Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird
 __Contractor__, Stavropol, Russia  
 2003
 
-Designed and Developed inventory and reporting software for a local car dealership (www.demidovcars.ru).
+Designed and Developed inventory and reporting software for a local car dealership (www.demidovcars.ru).  
 
  - Significantly improved time of car selling process;
  - Developed printing forms to print on vehicle's certificate of title to avoid handwriting;
