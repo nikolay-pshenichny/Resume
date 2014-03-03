@@ -1,5 +1,7 @@
 #Nikolay Pshenichny  
 ------------------------------------------------------------------------------------------------------------------------
+___Full-Stack Engineer___  
+   
 {Street}  
 {City}, {State}, {ZIP}  
 {Phone}  
@@ -9,17 +11,19 @@
 
 ###Objectives
 
-- Senior Software Engineer position in a motivated team working on interesting and complex projects.  
-- Improve skills and learn new algorithms, methodologies and technologies.
+- Senior Software Engineer position in a motivated team working on interesting and complex projects;  
+- Work on cutting edge technologies that will make the world a better place;  
 
 
 ###Summary
 
 - Over eight years' experience developing software of different complexity and scope;  
 - Strong problem solving and analytical skills;  
-- Ability to quickly learn new languages;  
-- Experience in business requirements analysis;  
-- Experience with development team management;  
+- Can pick up new technologies with little or no guidance; 
+- Excellent communication skills; 
+- Experience in delivering software to general availability and supporting it through multiple releases;  
+- Experience working with clients to elicit and analyze business requirements and processes;  
+- Experience in managing local and remote development teams;  
 - Current Development using __.NET technology stack__;  
 
 
@@ -54,14 +58,14 @@ May 2010 - November 2013
 
 Design and development of the INscribe Digital distribution platform (SOA based application for electronic book delivery) that was built from ground up in order to replace previously used distribution solution.  
 
-  - Installed and configured Continuous Integration Infrastructure;
-  - Developed UI (RIA, Flex/ActionScript, IoC, Dependency Injection);
+  - Developed UI (RIA, Flex/ActionScript, IoC, Dependency Injection, cross-browser compatibility);
   - Back-end development, including database schema changes;
   - Designed and implemented a software solution for long-running data migration operations;
   - Developed build/deployment scripts for some parts of the system (Ant, MSBuild, PowerShell);
-  - Developed reports (SQL Server Reporting Services);
+  - Developed reports (SQL Server Reporting Services);  
+  - Installed and configured Continuous Integration Infrastructure;  
   
-Customization and adaptation of the in-house media distribution platform for the electronic book market.  
+Customization and adaptation of the in-house media distribution platform for the electronic books market.  
 
   - Customized UI to allow users from different portals see customized views;
   - Created UI themes to represent different portals;
@@ -122,7 +126,7 @@ Participated in design and development of a B2B eCommerce solution.
   - Developed database stored procedures;
   - Developed client application automatic updater;
 
-Designed, implemented and tested a data syncronization solution (sync. between server-side data and client-side data)
+Designed, implemented and tested a data synchronization solution (sync. between server-side data and client-side data)
 
 Listed as an author in a patent for the developed software (\#2010611387, Russian Federation).
 
@@ -145,7 +149,7 @@ Supported and developed different parts of the in-house Banking Software.
  - Performed business requirements analysis and release planning;  
  - Modified the existing banking software to meet new customers needs and reflect changes in the legal system;
  - Developed wide variety of reports, including reports for credit bureaus;
- - Integrated 3rd part applications and services;
+ - Integrated 3rd party applications and services;
  - Performed code reviews; 
  - Participated in training of the end users, system maintenance and end-user support;
  - Helped with annual financial reports generation and checking;
