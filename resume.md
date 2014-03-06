@@ -54,7 +54,7 @@ _Other_                   | Ant, NuGet, SASS, WCF, WPF, Entity Framework, Castle
 ------------------------------------------------------------------------------------------------------------------------
 __INgrooves/Inscribe Digital/One Digital__, San Francisco, CA, (www.ingrooves.com)  
 Senior Software Engineer  
-May 2010 - November 2013  
+May 2010 - November 2013 (3 years 7 months)  
 
 Design and development of the INscribe Digital distribution platform (SOA based application for electronic book delivery) that was built from ground up in order to replace previously used distribution solution.  
 
@@ -142,7 +142,7 @@ Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP
 __"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
 _"Ставропольпромстройбанк" ОАО_  
 Software Engineer / Engineering Manager  
-July 2005 - April 2009
+July 2005 - April 2009  
 
 Supported and developed different parts of the in-house Banking Software.  
 

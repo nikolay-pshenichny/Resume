@@ -29,3 +29,6 @@ weasyprint ./resume.html resume.pdf -s ./print.css
 # Cleanup
 rm ./resume.html
 rm ./venv-script.py
+
+# Rename resume
+mv ./resume.pdf "./Nikolay Pshenichny.pdf"
