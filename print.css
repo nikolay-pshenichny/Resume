@@ -13,7 +13,7 @@
     @bottom-left
     {
         font-size: .75em;
-        content: "Nikolay Pshenichny / Resume";
+        content: "Nikolay Pshenichnyy / Resume";
         padding-bottom: 5mm;
     }
 }
@@ -32,7 +32,7 @@ h1
 
 table td
 {
-    padding: 1px;
+    padding: 2px;
 }
 
 table th

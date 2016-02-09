@@ -1,7 +1,8 @@
 ##Nikolay Pshenichnyy / ___Software Developer___  
 ------------------------------------------------------------------------------------------------------------------------   
 {Street}, {City}, {State}, {ZIP}  
-{Phone}, {Email}
+{Phone}
+{Email}
 
 
 
@@ -17,7 +18,6 @@ Particularly interested in projects that involve: scalability, big data, cloud c
 - Strong problem solving and analytical skills; 
 - Excellent communication skills; 
 - Experience in delivering software to general availability and supporting it through multiple releases;  
-- Experience working with clients to elicit and analyze business requirements and processes;  
 - Experience in managing local and remote development teams;
 
 
@@ -49,9 +49,8 @@ Design and development of the INscribe Digital distribution platform (a SOA base
   - Designed and developed the client application (RIA, Flex/ActionScript);
   - Participated in design and development of databases and web services;
   - Designed and implemented a solution for long-running data migration operations;
-  - Installed and configured CI infrastructure. Developed build/deployment scripts for some parts of the system (Ant, MSBuild, PowerShell);
-  - Developed an automatic data reconciliation tool for merging eBook metadata from multiple sources and generating files, appropriate for import into the distribution system (Python);
-
+  - Was responsible for the initial setup and configuration of CI infrastructure. Developed build/deployment scripts for some parts of the system (Ant, MSBuild, PowerShell);
+  - Developed an automatic data reconciliation tool for merging eBook metadata from multiple sources (Python);
   
 Development of a digital media distribution platform (ADAM project).  
 
@@ -74,13 +73,12 @@ January 2010 - May 2010
 
 Design and development of a consumption accounting and billing solution for energy distribution market. 
 
- - Gathered business requirements and participated in creation of the technical specifications document;
+ - Gathered business requirements and participated in creation of a technical specifications document;
  - Participated in design and development of the software solution;
 
 Owned design and development of the reports generation tool and its integration library.
 
- - Simplified reports development, generation and integration with the main software solution.  
-
+ - Simplified reports development, generation and integration with the main software solution.
 
 _Languages, tools and technologies summary_: 
 C++, Embarcadero RAD Studio (C++ Builder), ODAC, DevExpress VCL, Oracle 9i/11g, PL/SQL, Subversion
@@ -111,31 +109,13 @@ Software Engineer / Engineering Manager
 July 2005 - April 2009  
 
 Supported and developed various parts of the internal Banking Software.  
-
- - Performed business requirements analysis and release planning;  
- - Modified the existing banking software to meet new customers' needs and reflect changes in the legal system;
- - Developed wide variety of reports, including reports for credit bureaus;
- - Integrated 3rd party applications and services;
- - Performed code reviews. Provided technical leadership to junior developers; 
- - Participated in training of the end users, system maintenance and end-user support;
- - Led a team of 2 engineers.
+Led a team of 2 engineers.
 
 _Languages, tools and technologies summary_: 
 Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion, FastReport  VCL
 
 
-------------------------------------------------------------------------------------------------------------------------
-__Contractor / Self-employed__, Stavropol, Russia
-2003
-
-Designed and developed an Inventory and Reporting solution for a local car dealership (www.demidovcars.ru).  
-
- - Significantly improved time of a car selling process;
- - Developed printing templates/forms compatible with vehicle's certificate of title;
-
-_Languages, tools and technologies summary_:
-Borland Delphi 7, BDE, FastReport VCL
-
+<br/>
 
 
 ###Education / Events / Certifications

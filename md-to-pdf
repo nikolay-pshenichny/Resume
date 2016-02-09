@@ -34,4 +34,4 @@ rm ./resume.html
 rm ./venv-script.py
 
 # Rename resume
-mv ./resume.pdf "./Nikolay Pshenichny.pdf"
+mv ./resume.pdf "./Nikolay Pshenichnyy.pdf"
