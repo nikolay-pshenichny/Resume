@@ -44,7 +44,7 @@ __INgrooves / Inscribe Digital / One Digital__, San Francisco, CA, (www.ingroove
 Senior Software Engineer  
 May 2010 - November 2013 (3 years 7 months)  
 
-Design and development of the INscribe Digital distribution platform (a SOA based solution for electronic book delivery).  
+Design and development of INscribe Digital distribution platform (a SOA based solution for electronic book delivery).  
 
   - Designed and developed the client application (RIA, Flex/ActionScript);
   - Participated in design and development of databases and web services;
@@ -95,7 +95,7 @@ Participated in design and development of a B2B eCommerce solution.
   - Developed various parts of the server side infrastructure (API, DB);
   - Developed an automatic updater for the client application;
 
-Designed, implemented and tested a data synchronization solution (sync. between server-side and client-side data)
+Designed and implemented a data synchronization solution (sync. between server-side and client-side data)
 
 Listed as an author in a patent for the developed software (\#2010611387, Russian Federation).
 
