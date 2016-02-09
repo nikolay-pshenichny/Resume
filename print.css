@@ -22,7 +22,7 @@ body
 {
     text-align: justify;
     line-height: 1.25em;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 h1
@@ -32,7 +32,7 @@ h1
 
 table td
 {
-    padding: 3px;
+    padding: 1px;
 }
 
 table th
