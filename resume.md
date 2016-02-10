@@ -1,19 +1,20 @@
-##Nikolay Pshenichny / ___Software Developer___  
+##Nikolay Pshenichny / ___Senior Software Engineer___  
 ------------------------------------------------------------------------------------------------------------------------   
 {Street}, {City}, {State}, {ZIP}  
 {Phone}
 {Email}
 
-
+<br/>
 
 ###Summary
 
-- 10+ years of experience designing and developing software of different complexity and scope;  
-- Strong problem solving and analytical skills; 
-- Excellent communication skills; 
-- Experience in delivering software to general availability and supporting it through multiple releases;  
-- Experience in managing local and remote development teams;
+Senior Software Engineer with a solid track record of delivering complex product features and services.  
+Extensive engineering experience in diverse technology stacks and business domains.
+Experience with development team management and technical leadership.
+Well-versed in all aspects of the software development lifecycle.
+Looking to join a fast paced, agile product team focused on delivering complex software products.
 
+<br/>
 
 ###Work experience
 ------------------------------------------------------------------------------------------------------------------------
@@ -105,14 +106,15 @@ Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP
 &nbsp;  | &nbsp;
 --------|---------------------------------------------------------------------------------------------------------------
 __2015__| Architect's Days with Juval Lowy
-__2015__| M101N: MongoDB for .NET Developers
+__2015__| M101N: MongoDB for .NET Developers (Certificate)
 __2014__| QCon San Francisco
-__2013__| Certified ScrumMaster, Scrum Alliance
+__2013__| Certified ScrumMaster, Scrum Alliance (Certificate)
 __2012__| QCon San Francisco
 __2005__| Bachelor degree in computer science, South-Russian State University of Economics and Service, Russia
 __2002__| Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia
 
 
+<br/>
 
 ###References
 Please contact me for references.
