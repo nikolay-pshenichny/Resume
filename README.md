@@ -9,5 +9,6 @@ __Notes:__
   - If information substitution is not working properly, check that you have a card selected in Address Book (menu "Card/Make this my Card")
 
 __Todo:__
+  - Add MS Word support
   - (good-to-have) Create short and long versions of resume
   - Python and tons of libs installed via Brew is too much... find a simpler way (phantomjs?).
