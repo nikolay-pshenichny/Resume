@@ -1,15 +1,9 @@
-##Nikolay Pshenichnyy / ___Software Developer___  
+##Nikolay Pshenichny / ___Software Developer___  
 ------------------------------------------------------------------------------------------------------------------------   
 {Street}, {City}, {State}, {ZIP}  
 {Phone}
 {Email}
 
-
-
-###Objectives
-
-Senior Software Engineer position in a motivated team working on interesting and complex projects.
-Particularly interested in projects that involve: scalability, big data, cloud computing.  
 
 
 ###Summary
@@ -101,18 +95,6 @@ Listed as an author in a patent for the developed software (\#2010611387, Russia
 
 _Languages, tools and technologies summary_: 
 Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP, Python, DevExpress VCL, SQL, Subversion
-
-
-------------------------------------------------------------------------------------------------------------------------
-__"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
-Software Engineer / Engineering Manager  
-July 2005 - April 2009  
-
-Supported and developed various parts of the internal Banking Software.  
-Led a team of 2 engineers.
-
-_Languages, tools and technologies summary_: 
-Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion, FastReport  VCL
 
 
 <br/>
